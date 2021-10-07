@@ -1,2 +1,2 @@
 # Patterns
-Some of Work Projects From Epam
+Some of Homework Projects From Epam
